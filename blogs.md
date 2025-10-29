@@ -9,7 +9,3 @@ title: Blogs
 - [Why Blog? 为什么写博客？](https://line-6.github.io/blogs/whyblog/)<br>
 
 <br>
-
-## Leave a Message 欢迎留言
-
-# {% include disqus.html %} 

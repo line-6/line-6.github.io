@@ -8,9 +8,7 @@ title: line-6   # Main site title (appears in browser tab & RSS)
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
 # url: https://caihanlin.com
-author:
-  type: simple  # 改为 simple 模式可能隐藏头像
-  avatar: false
+avatar: false
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
