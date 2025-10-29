@@ -2,7 +2,10 @@
 layout: page
 permalink: /blogs/whyblog/index.html
 title: Why Blog?  为什么写博客？
+date: 2025-10-30
 ---
+
+{% include visit-counter.html %}
 
 ## Why Blog?  为什么写博客？
 
