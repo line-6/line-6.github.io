@@ -7,15 +7,15 @@ description: Here is personal website of Hanlin Cai, PhD Student at the Universi
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+# url: https://caihanlin.com
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
-owner:
-  name: Mingjie Li
-  # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: mjli24@m.fudan.edu.cn
+# owner:
+#   name: Mingjie Li
+#   # bio: Dream big, stay positive, work hard, and enjoy the journey.
+#   email: mjli24@m.fudan.edu.cn
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
