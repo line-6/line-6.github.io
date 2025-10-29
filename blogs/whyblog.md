@@ -5,7 +5,16 @@ title: Why Blog?  为什么写博客？
 date: 2025-10-30
 ---
 
-{% include visit-counter.html %}
+<div class="visit-counter" markdown="0">
+  <div class="counter-item">
+    <i class="fas fa-eye"></i>
+    <span id="busuanzi_container_page_pv">
+      本文阅读量：<span id="busuanzi_value_page_pv" style="font-weight: bold; color: #007bff;">0</span> 次
+    </span>
+  </div>
+</div>
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 ## Why Blog?  为什么写博客？
 
