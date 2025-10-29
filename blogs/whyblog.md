@@ -1,8 +1,10 @@
 ---
 layout: page
-permalink: /blogs/index.html
+permalink: /blogs/whyblog/index.html
 title: Why Blog?  为什么写博客？
 ---
+
+## Why Blog?  为什么写博客？
 
 1. 许多事情如果不及时记录，过一段时间就忘了，博客是记录学习、成长的方式。
 2. 将自己学到的知识及时以文字形式记录，输出，有助于加深自己的理解（贯彻费曼学习法）。
