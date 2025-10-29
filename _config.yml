@@ -37,11 +37,11 @@ description: Here is personal website of Hanlin Cai, PhD Student at the Universi
 #  `external: true` opens the link in a new tab.
 # --------------------------------------------------
 links:
+  - title: About Me
+    url: /
+
   - title: Blog Posts  博客文章
     url: /blogs
-  
-  - title: About Me
-    url: /about/
   # - title: Services
   #   url: /services/
   # - title: Awards
