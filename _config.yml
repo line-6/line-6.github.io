@@ -38,7 +38,7 @@ description: Here is personal website of Hanlin Cai, PhD Student at the Universi
 # --------------------------------------------------
 links:
   - title: Blog Posts  博客文章
-    url: /
+    url: /blogs
   
   - title: About Me
     url: /about/
