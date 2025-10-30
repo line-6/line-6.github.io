@@ -14,16 +14,20 @@ Posted on: {{ page.date | date: "%Y-%m-%d" }}
 **深度学习**基础的视角来阐述对 SNN 的理解。
 
 ##  从生物神经元说起（SNN 的仿生性） 
+...  
 
 ##  SNN 神经元模型
+...  
 
 ## 一个简单的 SNN 网络
+...  
 
 ##  ANN 与 SNN 的对比
+...  
 
 ## 后续
 主要讲讲训练一个 SNN 网络（以 ANN 做对比）需要核心关注的点（encoder，梯度替代，ann转snn，...）
 
-## 参考
+### 参考
 1. [SNN脉冲神经网络入门实战](https://www.bilibili.com/video/BV1WLtKzyEYb)
 2. [脉冲神经网络解读](https://zhuanlan.zhihu.com/p/416187474)
