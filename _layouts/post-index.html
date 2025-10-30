@@ -58,6 +58,8 @@
     <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
       <h2 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
       <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+      <!-- 添加博客发布日期 -->
+      <p><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></p>
     </article>
   {% endfor %}
 </div><!-- /#index -->
