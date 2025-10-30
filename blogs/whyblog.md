@@ -5,7 +5,7 @@ title: Why Blog?  为什么写博客？
 date: 2025-10-30
 ---
 
-## Why Blog?  为什么写博客？
+# Why Blog?  为什么写博客？
 
 Posted on: {{ page.date | date: "%Y-%m-%d" }}
 
