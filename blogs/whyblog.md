@@ -9,6 +9,11 @@ date: 2025-10-30
 
 Posted on: {{ page.date | date: "%Y-%m-%d" }}
 
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_page_pv">
+  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
+
 1. 许多事情如果不及时记录，过一段时间就忘了，希望通过博客记录学习、得到成长。
 2. 将自己学到的知识及时以文字形式记录，输出，有助于加深自己的理解（贯彻费曼学习法^^）。
 3. 如果有幸遇到对内容有所见解的朋友，通过沟通可以加深自己的理解
